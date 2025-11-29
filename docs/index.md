@@ -1,6 +1,6 @@
 # Thesis Repository
 
-Welcome to the official thesis repository for **[Project Title]**.
+Welcome to the official thesis repository for **Greendocs: A Paperless Document Tracking and Routing Management System**.
 
 Use the navigation at the left (MkDocs) or the links below to browse by section.
 

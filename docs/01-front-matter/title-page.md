@@ -1,12 +1,12 @@
 # Title Page
 
-> _Replace this placeholder with your content._
+<!-- > _Replace this placeholder with your content._ -->
 
 
-**Project Title**  
-**Team Members:** Name 1, Name 2, Name 3  
-**Department:** College / Program  
-**Date:** YYYY-MM-DD
+**Greendocs: A Paperless Document Tracking and Routing Management System**   
+**Team Members:** Vin Russel S. Jarcia, Julius Nazer S. Orit, Jefrince O. Ceron, Geric B. De La Rosa, Janred D. Quierra  
+**Department:** Bachelor of Science in Computer Science  
+**Date:** 2025-11-29
 
 
 ---
